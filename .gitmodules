@@ -1,3 +1,6 @@
 [submodule "textbook"]
 	path = textbook
 	url = https://github.com/xyfgemini/textbook
+[submodule "paper"]
+	path = paper
+	url = https://github.com/xyfgemini/paper
