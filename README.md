@@ -1,0 +1,4 @@
+# Readings
+
+- paper
+- textbook
